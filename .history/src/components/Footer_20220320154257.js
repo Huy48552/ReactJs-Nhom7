@@ -1,5 +1,7 @@
 import React from 'react';
+import './CSS/Footer.css';
 import { BiMap, BiTimeFive } from 'react-icons/bi';
+// import { BiTimeFive,  } from 'react-icons/bi';
 import { AiFillLinkedin } from 'react-icons/ai';
 import {
     AiOutlinePhone,
@@ -8,7 +10,9 @@ import {
 } from 'react-icons/ai';
 import { FiMail } from 'react-icons/fi';
 import { FaFacebookSquare } from 'react-icons/fa';
-import './CSS/Footer.css';
+// import { AiFillTwitterSquare } from 'react-icons/ai';
+import { AiFillLinkedin } from 'react-icons/ai';
+import { AiFillInstagram } from 'react-icons/ai';
 
 const Footer = () => {
     return (

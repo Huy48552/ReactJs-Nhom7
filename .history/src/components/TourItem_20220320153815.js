@@ -1,8 +1,8 @@
-/* eslint-disable jsx-a11y/alt-text */
 import React, { useState } from 'react';
 import './CSS/TourItem.css';
 import { FaFacebookF } from 'react-icons/fa';
 import { AiOutlineTwitter, AiOutlineInstagram } from 'react-icons/ai';
+// import {AiOutlineInstagram} from 'react-icons/ai'
 
 const TourItem = ({ tour }) => {
     const { name, title, img, desc } = tour;

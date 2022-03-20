@@ -1,15 +1,16 @@
 import React, { useContext, useState } from 'react';
-import { BiMap, BiTimeFive } from 'react-icons/bi';
-import {
-    AiOutlinePhone,
-    AiFillTwitterSquare,
-    AiFillLinkedin,
-    AiFillInstagram,
-} from 'react-icons/ai';
-import { FaFacebookSquare, FaShoppingCart, FaBars } from 'react-icons/fa';
-import { Link } from 'react-router-dom';
-import { ProductContext } from '../context';
 import './CSS/Navbar.css';
+import { BiMap } from 'react-icons/bi';
+import { AiOutlinePhone } from 'react-icons/ai';
+import { BiTimeFive } from 'react-icons/bi';
+import { FaFacebookSquare } from 'react-icons/fa';
+import { AiFillTwitterSquare } from 'react-icons/ai';
+import { AiFillLinkedin } from 'react-icons/ai';
+import { AiFillInstagram } from 'react-icons/ai';
+import { Link } from 'react-router-dom';
+import { FaShoppingCart } from 'react-icons/fa';
+import { FaBars } from 'react-icons/fa';
+import { ProductContext } from '../context';
 
 const Navbar = () => {
     const [isMoBile, setIsMobile] = useState(false);
@@ -41,18 +42,18 @@ const Navbar = () => {
                         <span>7:00 a.m - 10:00 p.m</span>
                     </div>
                     <div className='navbar_header-info'>
-                        <a>
+                        <Link>
                             <FaFacebookSquare />
-                        </a>
-                        <a>
+                        </Link>
+                        <Link>
                             <AiFillTwitterSquare />
-                        </a>
-                        <a>
+                        </Link>
+                        <Link>
                             <AiFillLinkedin />
-                        </a>
-                        <a>
+                        </Link>
+                        <Link>
                             <AiFillInstagram />
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </div>
