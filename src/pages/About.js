@@ -14,18 +14,19 @@ const About = () => {
                 </div>
                 <div className='about-title'>
                     <h2>
-                        This is a place defined by our own philosophy. It is to
-                        keep things simple and create a family atmosphere for
-                        our customers.
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip
                     </h2>
                 </div>
                 <Prize />
                 <div className='about-title'>
                     <p>
-                        Coming to us for a lunch or a dinner should feel just as
-                        comfortable, as having one at home. The simplicity,
-                        freshness and reasonable pricing for our dishes just
-                        underlines how home-like our Restaurant is..
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip lorem ipsum dolor sit amet, consectetur
+                        adip lorem ipsum dolor sit amet, consectetur adip
                     </p>
                 </div>
                 <div className='about-image'>
@@ -34,10 +35,16 @@ const About = () => {
                 <div className='about-content'>
                     <h2 className='about-content-title'>Meet our team</h2>
                     <h3>
-                        Bettaso is a family owned Restaurant, which treasures
-                        the atmosphere just as much as the dining menu. We
-                        assembled a strong team of professionals, all of whom
-                        aspire to constantly excel and step it up!
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip lorem ipsum dolor sit amet, consectetur
+                        adip lorem ipsum dolor sit amet, consectetur adip lorem
+                        ipsum dolor sit amet, consectetur adip lorem ipsum dolor
+                        sit amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip lorem ipsum dolor sit amet, consectetur
+                        adip lorem ipsum dolor sit amet, consectetur adip lorem
+                        ipsum dolor sit amet, consectetur adip
                     </h3>
                     <p className='content-text'>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -45,44 +52,63 @@ const About = () => {
                         dapibus leo.
                     </p>
                     <p className='content-text'>
-                        This team has been assembled coming from absolutely
-                        different backgrounds. It’s most noticeable when we
-                        compare Mary and her two sous chefs. Mary’ been studying
-                        and working the art of cooking in Paris while Thomas and
-                        Simon had a more local experience in the US Restaurants.
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip lorem ipsum dolor sit amet, consectetur
+                        adip lorem ipsum dolor sit amet, consectetur adip lorem
+                        ipsum dolor sit amet, consectetur adip lorem ipsum dolor
+                        sit amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip
                     </p>
                     <p className='content-text'>
-                        Both Simon and Thomas came from a more local experience
-                        of contemporary, mixed American cuisine.
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip
                     </p>
                     <p className='content-text'>
-                        These differences help them to work incredibly
-                        efficiently as one team.
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip
                     </p>
                     <p className='content-text'>
-                        They compliment each other’s experiences and skills!
-                        Together in this cooking collaboration, they created our
-                        unique, diverse menu as it is.
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip lorem ipsum dolor sit amet, consectetur
+                        adip lorem ipsum dolor sit amet, consectetur adip lorem
+                        ipsum dolor sit amet, consectetur adip lorem ipsum dolor
+                        sit amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip
                     </p>
                     <p className='content-text'>
-                        We’re really proud to recognize that this menu is a
-                        truly modern take on food. A menu, where there are
-                        national dishes from different countries, mixed up and
-                        adapted to an American contemporary setting.
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip lorem ipsum dolor sit amet, consectetur
+                        adip lorem ipsum dolor sit amet, consectetur adip lorem
+                        ipsum dolor sit amet, consectetur adip lorem ipsum dolor
+                        sit amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip
                     </p>
                     <p className='content-text'>
-                        Even more importantly, each of our culinary talents
-                        focuses within their own specific kitchen department…
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip
                     </p>
                     <p className='content-text'>
-                        Like Thomas Palmer does, giving Mary and Simon a hand
-                        when it comes to desserts. And no one cooks those
-                        mouth-watering, delightful desserts better than him!
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip lorem ipsum dolor sit amet, consectetur
+                        adip lorem ipsum dolor sit amet, consectetur adip
                     </p>
                     <p className='content-text'>
-                        All in all, we very much owe to Bettaso’s team diversity
-                        and the teamwork we have here. These ingredients make us
-                        the best
+                        lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                        dolor sit amet, consectetur adip lorem ipsum dolor sit
+                        amet, consectetur adip lorem ipsum dolor sit amet,
+                        consectetur adip lorem ipsum dolor sit amet, consectetur
+                        adip lorem ipsum dolor sit amet, consectetur adip
                     </p>
                     <br />
 

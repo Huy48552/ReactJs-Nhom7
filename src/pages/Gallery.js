@@ -18,12 +18,14 @@ const Gallery = () => {
             <div className='gallery-text'>
                 <h2>Our interior </h2>
                 <p>
-                    Do you value relaxing, friendly atmosphere? Our interior
-                    will sway your mood! The Bettaso restaurant offers two
-                    different dining halls (one big and one a bit more
-                    intimate), with tables varying in size (for 2, 4 or 8
-                    guests). Additionally we have a wide bar desk with high
-                    chairs, a welcoming space for enjoying your drink!
+                    lorem ipsum dolor sit amet, consectetur adip lorem ipsum
+                    dolor sit amet, consectetur adip lorem ipsum dolor sit amet,
+                    consectetur adip lorem ipsum dolor sit amet, consectetur
+                    adip lorem ipsum dolor sit amet, consectetur adip lorem
+                    ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit
+                    amet, consectetur adip lorem ipsum dolor sit amet,
+                    consectetur adip lorem ipsum dolor sit amet, consectetur
+                    adip
                 </p>
             </div>
             <div className='image-container'>
